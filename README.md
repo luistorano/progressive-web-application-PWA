@@ -14,7 +14,7 @@ This is a simple web application that helps you keep track of your budget.
 ## Repo and Website Link
 [GitHub](https://github.com/luistorano/progressive-web-application-PWA)
 
-[Budget Tracker](https://luistorano.github.io/progressive-web-application-PWA/)
+[Budget Tracker](https://whispering-lake-62257.herokuapp.com/)
 
 ## Website Preview
 
