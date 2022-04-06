@@ -18,4 +18,4 @@ This is a simple web application that helps you keep track of your budget.
 
 ## Website Preview
 
-![Budget Tracker]()
+![Budget Tracker](https://github.com/luistorano/progressive-web-application-PWA/blob/main/public/img/PWA-screenshot.png)
